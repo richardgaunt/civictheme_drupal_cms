@@ -1,7 +1,7 @@
 {
     "name": "drupal/civictheme_drupal_cms",
     "description": "Recipe for setting up CivicTheme.",
-    "type": "recipe",
+    "type": "drupal-recipe",
     "license": "GPL-2.0-or-later",
     "require": {}
 }
