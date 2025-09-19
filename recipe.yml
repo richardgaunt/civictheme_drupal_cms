@@ -1,4 +1,4 @@
-name: 'CivicTheme'
+name: 'CivicTheme Setup Recipe'
 description: 'Install civictheme'
 type: 'Theme installer'
 recipes:
