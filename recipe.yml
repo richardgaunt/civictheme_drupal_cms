@@ -19,11 +19,7 @@ config:
     system.theme:
       simpleConfigUpdate:
         default: civictheme
-    block.block.civictheme_site_branding:
-      setStatus: false
     block.block.civictheme_help:
-      setStatus: false
-    block.block.civictheme_main_menu:
       setStatus: false
     block.block.civictheme_messages:
       setStatus: false
